@@ -1,4 +1,4 @@
-theme: hacker
+remote_theme: pages-themes/hacker
 plugins:
-  - jekyll-theme-hacker
+  - jekyll-remote-theme
 title: "zmjjrr's blog"
