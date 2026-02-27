@@ -1,2 +1,4 @@
 theme: hacker
+plugins:
+  - jekyll-theme-hacker
 title: "zmjjrr's blog"
