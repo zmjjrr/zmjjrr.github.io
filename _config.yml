@@ -1,4 +1,2 @@
-remote_theme: pages-themes/hacker
-plugins:
-  - jekyll-remote-theme
+theme: minima
 title: "zmjjrr's blog"
